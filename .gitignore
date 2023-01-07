@@ -1,0 +1,6 @@
+#ignore .metadata and everything in it 
+.metadata
+.settings
+.project
+.classpath
+*/bin
