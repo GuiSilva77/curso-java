@@ -3,7 +3,7 @@ package entities;
 public class Rent {
 	private String name;
 	private String email;
-	private int room;
+	private Integer room;
 
 	public Rent(String name, String email, int room) {
 		super();
